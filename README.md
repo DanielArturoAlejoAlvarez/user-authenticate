@@ -6,6 +6,9 @@ This API REST with RUBY.
 ## Installation
 Using Ruby on Rails and Gems Knock, JWT.
 
+## APPS
+Using Postman, RestEasy, etc
+
 ## Usage
 ```html
 $ git clone https://github.com/DanielArturoAlejoAlvarez/user-authenticate.git [NAME APP] 
